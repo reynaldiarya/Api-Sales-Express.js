@@ -11,7 +11,7 @@ Proyek ini adalah implementasi API untuk sistem penjualan makanan yang dibangun 
 ## Instalasi  
 1. **Clone repositori ini**  
    ```bash
-   git clone https://github.com/reynaldiarya/api-sales-express-js.git
+   git clone https://github.com/reynaldiarya/Api-Sales-Express.js.git
    cd api-penjualan-makanan
    ```
 
